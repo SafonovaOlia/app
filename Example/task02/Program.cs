@@ -6,7 +6,7 @@ namespace task04
     {
         static void Main(string[] args)
         {
-            Console.WriteLine ("Введите два числа: ");
+            Console.WriteLine ("Введите два числа суки: ");
             int a = Convert.ToInt32(Console.ReadLine ());
             int b = Convert.ToInt32(Console.ReadLine ());
             if (b > a)
